@@ -1,0 +1,2 @@
+public class MMMM {
+}
